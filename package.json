@@ -1,0 +1,8 @@
+{
+  "name": "easy-console-colors",
+  "version": "1.0.0",
+  "author": "Rolando Valdivia",
+  "description": "Easily add colors to terminal",
+  "main": "index.js",
+  "license": "MIT"
+}
