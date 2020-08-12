@@ -4,5 +4,10 @@
   "author": "Rolando Valdivia",
   "description": "Easily add colors to terminal",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/RoloRules/easy-console-colors",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/RoloRules/easy-console-colors.git"
+  }
 }
