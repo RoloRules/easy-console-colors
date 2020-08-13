@@ -2,12 +2,22 @@
   "name": "easy-console-colors",
   "version": "0.1.0",
   "author": "Rolando Valdivia",
-  "description": "Easily add colors to terminal",
+  "description": "Easily add colors to your console",
   "main": "index.js",
   "license": "MIT",
   "homepage": "https://github.com/RoloRules/easy-console-colors",
   "repository": {
     "type" : "git",
     "url" : "https://github.com/RoloRules/easy-console-colors.git"
-  }
+  },
+  "keywords": [
+    "console",
+    "terminal",
+    "color",
+    "colour",
+    "colors",
+    "cli",
+    "ansi",
+    "chalk"
+  ]
 }
